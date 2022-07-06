@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Flo and I'm from France. I'm a web developer in React JS.<br>
-I'm a NEOVIM (and VIM) user with an <i>Advantage2 Kinesis</i> keyboard !<br>
-I'm using Ubuntu with i3 as window manager.
+My name is Flo and I'm from France. I'm a web developer in React JS.<br><br>
+I'm a NEOVIM (and VIM) user with an <i>Advantage2 Kinesis</i> keyboard !<br><br>
+I'm using Ubuntu with i3 as window manager.<br><br>
 
 ## Connect with me
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/FloSlv1#gh-light-mode-only)
