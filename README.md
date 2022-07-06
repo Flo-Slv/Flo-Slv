@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Flo and I'm from France. I'm a web developer in React JS.<br>
-I'm a VIM user with an <i>Advantage2 Kinesis</i> keyboard !<br>
+I'm a NEOVIM (and VIM) user with an <i>Advantage2 Kinesis</i> keyboard !<br>
 I'm using Ubuntu with i3 as window manager.
 
 ## Connect with me
