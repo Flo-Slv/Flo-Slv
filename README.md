@@ -7,7 +7,7 @@ I am currently learning Lua which a super language to make Neovim plugins !
 
 So, yes, I'm a Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.
 
-I'm using Ubuntu 22.04 LTS with i3 as window manager.
+I'm using Ubuntu 22.04 with i3 as window manager.
 
 ---
 
