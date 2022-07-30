@@ -1,7 +1,13 @@
 ### Hi there 👋
 My name is Flo and I'm from France. I'm a web developer in React JS.<br><br>
-I'm a NEOVIM user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.<br><br>
-I'm using Ubuntu with i3 as window manager.<br><br>
+I'm a Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.<br><br>
+I'm using Ubuntu with i3 as window manager.
+
+---
+
+I love making plugins for Neovim like [Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)
+
+---
 
 ## Connect with me
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/FloSlv1#gh-light-mode-only)
@@ -23,6 +29,7 @@ I'm using Ubuntu with i3 as window manager.<br><br>
 <img align="left" alt="React JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Lua.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;" />
 <br><br>
 
 ## Tools
