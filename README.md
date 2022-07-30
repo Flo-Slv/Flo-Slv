@@ -41,6 +41,8 @@ Here is my first plugin in Lua for Neovim: [Tokyonight-fade.nvim](https://github
 
 ## Tools
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Insomnia" width="30px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Notion" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" style="padding-right:10px;" />
 <br><br>
 
 ## Set-up
