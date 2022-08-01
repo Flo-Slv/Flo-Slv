@@ -5,6 +5,8 @@ I'm a web developer in React JS, GraphQL and Node.js.
 
 I am currently learning Lua which a super language to make Neovim plugins !
 
+And I plan to learn Rust in the next weeks.
+
 So, yes, I'm a Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.
 
 I'm using Ubuntu 22.04 with i3 as window manager.
