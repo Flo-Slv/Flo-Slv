@@ -3,7 +3,7 @@ My name is Flo and I'm from France.
 
 I'm a web developer in React JS, GraphQL and Node.js.
 
-I am currently learning Lua which a super language to make Neovim plugins !
+I am currently learning Lua which is a super language to make Neovim plugins !
 
 I also learning Rust 1 to 2h a day on stream !
 
@@ -21,7 +21,7 @@ Follow my journey to learn Rust from scratch - 🇫🇷 only
 
 ---
 
-M first tries to make Neovim plugins in Lua
+My first tries to make Neovim plugins in Lua
 
 ► <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - 🚧 WIP 🚧
 
@@ -49,7 +49,7 @@ M first tries to make Neovim plugins in Lua
 <img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;padding-top:10px;" />
-<img align="left" alt="Rust" width="30px" src="https://image.pngaaa.com/303/4373303-middle.png" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="Rust" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/1200px-Original_Ferris.svg.png" style="padding-right:10px;" />
 <br><br>
 
 ## Tools
