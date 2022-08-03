@@ -5,15 +5,21 @@ I'm a web developer in React JS, GraphQL and Node.js.
 
 I am currently learning Lua which a super language to make Neovim plugins !
 
-And I plan to learn Rust in the next weeks.
+I also learning Rust 1 to 2h a day on stream !
 
 So, yes, I'm a Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.
 
 I'm using Ubuntu 22.04 with i3 as window manager.
+<br /><br />
 
 ---
 
-Here is my first plugin in Lua for Neovim: [Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)
+Follow my journey to learn Rust from scratch (🇫🇷 only) on (YouTube)[https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-] or (Twitch)[https://www.twitch.tv/lepr3z]
+
+---
+
+Here is my first try to make a plugin in Lua for Neovim: [Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)<br />
+🚧 Still WIP !
 
 ---
 <br />
