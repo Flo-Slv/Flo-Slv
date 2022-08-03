@@ -49,7 +49,7 @@ My first tries to make Neovim plugins in Lua
 <img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;padding-top:10px;" />
-<img align="left" alt="Rust" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/1200px-Original_Ferris.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Rust" width="30px" src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" style="padding-right:10px;" />
 <br><br>
 
 ## Tools
