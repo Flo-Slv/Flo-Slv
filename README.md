@@ -37,7 +37,7 @@ My first tries to make Neovim plugins in Lua
 <br><br>
 
 ## Editor
-<img align="left" alt="NEOVIM" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" style="padding-right:10px;" />
+<img align="left" alt="NEOVIM" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" style="padding-right:10px;" />
 <img align="left" alt="VIM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 <br><br>
 
