@@ -18,7 +18,7 @@ Follow my journey to learn Rust from scratch (🇫🇷 only) on <i><a href="http
 
 ---
 
-Here is my first try to make a plugin in Lua for Neovim: <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i>
+Here is my first try to make a plugin in Lua for Neovim ► <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i>
 
 🚧 WIP 🚧
 
