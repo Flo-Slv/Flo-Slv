@@ -14,7 +14,7 @@ I'm using Ubuntu 22.04 with i3 as window manager.
 
 ---
 
-Follow my journey to learn Rust from scratch (🇫🇷 only) on (YouTube)[https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-] or (Twitch)[https://www.twitch.tv/lepr3z]
+Follow my journey to learn Rust from scratch (🇫🇷 only) on <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i> or on <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> !
 
 ---
 
