@@ -5,7 +5,7 @@ I'm a web developer in JavaScript, React JS, GraphQL and Node.js.
 
 I am currently learning TypeScript thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
-And I am also learning Rust 1h a day on live stream on Twitch !
+And I am also learning Rust 1h a day on live on Twitch !
 
 I love Lua which is a super language to make Neovim plugins !  ❣
 
