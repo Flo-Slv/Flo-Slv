@@ -1,11 +1,13 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in React JS, GraphQL and Node.js.
+I'm a web developer in JavaScript, React JS, GraphQL and Node.js.
 
-I am currently learning Lua which is a super language to make Neovim plugins !
+I am currently learning TypeScript thanks to <a href="www.executeprogram.com" target="_blank">www.executeprogram.com</a>.
 
-I also learning Rust 1 to 2h a day on stream !
+And I am also learning Rust 1h a day on live stream on Twitch !
+
+I love Lua which is a super language to make Neovim plugins !  ❣
 
 So, yes, I'm a Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.
 
@@ -21,7 +23,7 @@ Follow my journey to learn Rust from scratch - 🇫🇷 only
 
 ---
 
-My first tries to make Neovim plugins in Lua
+My first try to make a Neovim plugin in Lua.
 
 ► <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - 🚧 WIP 🚧
 
@@ -45,6 +47,7 @@ My first tries to make Neovim plugins in Lua
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-bottom:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;padding-bottom:10px;" />
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
