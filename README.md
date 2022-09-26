@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in JavaScript, React JS, GraphQL and Node.js.
+I'm a web developer in JavaScript, ReactJS, GraphQL and Node.js.
 
 I am currently learning TypeScript thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
@@ -16,16 +16,29 @@ I'm using Ubuntu 22.04 with i3 as window manager.
 
 ---
 
-Follow my journey to learn Rust from scratch - 🇫🇷 only
+### Personnal projects
+
+► <a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">Link-in-bio page</a> - A webpage for my social network profiles. Mobile first, written in HTML/CSS and a bit of JavaScript.
+
+<a href="https://links.flo-slv.dev" target="_blank">links.flo-slv.dev</a>
+<br /><br />
+
+► <a href="https://github.com/Flo-Slv/website" target="_blank">My website</a> - My personnal website. Written in HTML/CSS/JavaScript and ReactJS.
+
+<a href="https://flo-slv.dev" target="_blank">flo-slv.dev</a>
+
+---
+
+### Follow my journey to learn Rust from scratch - 🇫🇷 only
 
 ► <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i><br />
 ► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
 
 ---
 
-My first try to make a Neovim plugin in Lua.
+### Neovim plugins
 
-► <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - 🚧 WIP 🚧
+► <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - My first try to make a Neovim plugin in Lua. -  🚧 WIP 🚧
 
 ---
 <br />
