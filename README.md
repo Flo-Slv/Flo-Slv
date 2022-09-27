@@ -26,6 +26,9 @@ I'm using Ubuntu 22.04 with i3 as window manager.
 ► <a href="https://github.com/Flo-Slv/website" target="_blank">My website</a> - My personnal website. Written in HTML/CSS/JavaScript and ReactJS.
 
 <a href="https://flo-slv.dev" target="_blank">flo-slv.dev</a>
+<br /><br />
+
+► <a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">Browser homepage</a> - A custom homepage when I open my browser. Written in HTML and CSS.
 
 ---
 
