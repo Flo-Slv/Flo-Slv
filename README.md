@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in JavaScript, ReactJS, GraphQL and Node.js.
+I'm a web developer in JavaScript, Reac.js, GraphQL and Node.js.
 
 I am currently learning TypeScript thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
