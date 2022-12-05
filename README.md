@@ -1,11 +1,9 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in JavaScript, React.js, GraphQL and Node.js.
+I'm a web developer in CSS, JavaScript, React.js and Next.js.
 
 I am currently learning TypeScript thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
-
-And I am also learning Rust 1h a day on live on Twitch !
 
 I love Lua which is a super language to make Neovim plugins !  ❣
 
@@ -29,6 +27,16 @@ I'm using Ubuntu 22.04 with i3 as window manager.
 <br /><br />
 
 ► <a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">Browser homepage</a> - A custom homepage when I open my browser. Written in HTML and CSS.
+
+---
+
+### Advent of Code 2022 - JavaScript
+
+Every day on live on Twitch from 1st to 25th December 2022.
+
+► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i><br />
+► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
+
 
 ---
 
@@ -63,10 +71,10 @@ I'm using Ubuntu 22.04 with i3 as window manager.
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-bottom:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;padding-bottom:10px;" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;padding-top:10px;" />
 <img align="left" alt="Rust" width="30px" src="https://prev.rust-lang.org/logos/rust-logo-512x512.png" style="padding-right:10px;" />
 <br><br>
