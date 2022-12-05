@@ -37,7 +37,6 @@ Every day on live on Twitch from 1st to 25th December 2022.
 ► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i><br />
 ► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
 
-
 ---
 
 ### Follow my journey to learn Rust from scratch - 🇫🇷 only
@@ -51,7 +50,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ► <i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i><br />
 ► <i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i><br />
-► <i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30DaysOfNode</a></i><br />
+► <i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i><br />
 ► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i>
 
 ---
