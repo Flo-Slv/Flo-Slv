@@ -47,6 +47,15 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ---
 
+### My learning GitHub repository
+
+► <i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i><br />
+► <i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i><br />
+► <i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30DaysOfNode</a></i><br />
+► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i>
+
+---
+
 ### Neovim plugins
 
 ► <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - My first try to make a Neovim plugin in Lua. -  🚧 WIP 🚧
