@@ -35,6 +35,7 @@ I'm using Ubuntu 22.04 with i3 as window manager.
 Every day on live on Twitch from 1st to 25th December 2022.
 
 ► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i><br />
+► <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i>
 ► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
 
 ---
