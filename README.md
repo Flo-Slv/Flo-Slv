@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in CSS, JavaScript, React.js and Next.js.
+I'm a web developer in CSS, JavaScript, React.js and Next.js (13).
 
 I am currently learning TypeScript thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
