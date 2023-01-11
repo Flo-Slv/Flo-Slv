@@ -33,12 +33,12 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 ---
 
-### My dotfiles
+### Dotfiles
 
 My full development environment 🚀
 
-► :tv: <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorials on YouTube</a></i><br />
-► <i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i>
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorials on YouTube</a></i><br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i>
 
 ---
 
@@ -46,16 +46,16 @@ My full development environment 🚀
 
 Every day on live on Twitch from 1st to 25th December 2022.
 
-► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i><br />
-► :tv: <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i><br />
-► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i><br />
+<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i><br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i>
 
 ---
 
 ### Follow my journey to learn Rust from scratch - 🇫🇷 only
 
-► :tv: <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i><br />
-► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i><br />
+<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
 
 ---
 
@@ -71,7 +71,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ### Neovim plugins
 
-► <i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - My first try to make a Neovim plugin in Lua. -  🚧 WIP 🚧
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - My first try to make a Neovim plugin in Lua. -  🚧 WIP 🚧
 
 ---
 <br />
@@ -108,5 +108,5 @@ Every day on live on Twitch from 1st to 25th December 2022.
 <br><br>
 
 ## Set-up
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
