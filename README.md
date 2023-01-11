@@ -37,8 +37,8 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 My full development environment 🚀
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorials on YouTube</a></i><br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i>
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorials on YouTube</a></i> - 🇫🇷 fr<br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i> - 🇺🇸 en
 
 ---
 
@@ -46,32 +46,32 @@ My full development environment 🚀
 
 Every day on live on Twitch from 1st to 25th December 2022.
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i><br />
-<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i><br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i>
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i> - 🇫🇷 fr<br />
+<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> - 🇫🇷 fr<br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i> - 🇺🇸 en
 
 ---
 
-### Follow my journey to learn Rust from scratch - 🇫🇷 only
+### My journey to learn Rust from scratch
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i><br />
-<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i> - 🇫🇷 fr<br />
+<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> - 🇫🇷 fr
 
 ---
 
 ### My learning GitHub repositories
 
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i><br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i><br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i><br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i><br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i>
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i> - 🇺🇸 en
 
 ---
 
 ### Neovim plugins
 
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - My first try to make a Neovim plugin in Lua. -  🚧 WIP 🚧
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - 🚧 WIP 🚧 My first try to make a Neovim plugin in Lua. - 🇺🇸 en
 
 ---
 <br />
