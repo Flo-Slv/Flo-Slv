@@ -5,7 +5,7 @@ I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js and Next.js (13)
 
 I am currently learning TypeScript on my free time thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
-I also love Lua which is a super language to config and create Neovim plugins !  ❣
+I also love Lua which is a great language to config and create Neovim plugins !  ❣
 
 So, yes, I'm a Vim/Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.
 
@@ -18,15 +18,18 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 ► <a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">Link-in-bio page</a> - A webpage for my social network profiles. Mobile first, written in HTML/CSS and a bit of JavaScript.
 
-<a href="https://links.flo-slv.dev" target="_blank">links.flo-slv.dev</a>
+🌐 <a href="https://links.flo-slv.dev" target="_blank">links.flo-slv.dev</a>
 <br /><br />
 
 ► <a href="https://github.com/Flo-Slv/website" target="_blank">My website</a> - My personnal website. Written in HTML/CSS/JavaScript and ReactJS.
 
-<a href="https://flo-slv.dev" target="_blank">flo-slv.dev</a>
+🌐 <a href="https://flo-slv.dev" target="_blank">flo-slv.dev</a>
 <br /><br />
 
 ► <a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">Browser homepage</a> - A custom homepage when I open my browser. Written in HTML and CSS.
+<br /><br />
+
+► <a href="https://github.com/Flo-Slv/NextJS13-linktree-clone" target="_blank">Linktree clone</a> - A Linktree clone with Next.js 13 and Tailwind CSS. Mobile first.
 
 ---
 
