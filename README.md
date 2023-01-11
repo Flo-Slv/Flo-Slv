@@ -61,11 +61,11 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ### My learning GitHub repositories
 
-► <i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i><br />
-► <i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i><br />
-► <i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i><br />
-► <i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i><br />
-► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i>
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i><br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i><br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i><br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i><br />
+<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i>
 
 ---
 
