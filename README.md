@@ -33,19 +33,28 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 ---
 
+### My dotfiles
+
+My full development environment 🚀
+
+► :tv: <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorials on YouTube</a></i><br />
+► <i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i>
+
+---
+
 ### Advent of Code 2022 - JavaScript
 
 Every day on live on Twitch from 1st to 25th December 2022.
 
 ► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i><br />
-► <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i><br />
+► :tv: <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i><br />
 ► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
 
 ---
 
 ### Follow my journey to learn Rust from scratch - 🇫🇷 only
 
-► <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i><br />
+► :tv: <i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i><br />
 ► <i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i>
 
 ---
