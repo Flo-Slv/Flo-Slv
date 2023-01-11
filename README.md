@@ -1,15 +1,15 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in CSS, JavaScript, React.js and Next.js (13).
+I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js and Next.js (13).
 
-I am currently learning TypeScript thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
+I am currently learning TypeScript on my free time thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
-I love Lua which is a super language to make Neovim plugins !  ❣
+I also love Lua which is a super language to config and create Neovim plugins !  ❣
 
 So, yes, I'm a Vim/Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.
 
-I'm using Ubuntu 22.04 with i3 as window manager.
+I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 <br /><br />
 
 ---
@@ -47,11 +47,12 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ---
 
-### My learning GitHub repository
+### My learning GitHub repositories
 
 ► <i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i><br />
 ► <i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i><br />
 ► <i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i><br />
+► <i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i><br />
 ► <i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i>
 
 ---
