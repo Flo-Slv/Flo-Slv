@@ -29,7 +29,7 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 ► <a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">Browser homepage</a> - A custom homepage when I open my browser. Written in HTML and CSS.
 <br /><br />
 
-► <a href="https://github.com/Flo-Slv/NextJS13-linktree-clone" target="_blank">Linktree clone</a> - A Linktree clone with Next.js 13 and Tailwind CSS. Mobile first.
+► <a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">Linktree clone</a> - A Linktree clone with Next.js 13, Tailwind CSS and Material UI. Mobile first.
 
 ---
 
