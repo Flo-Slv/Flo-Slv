@@ -128,13 +128,13 @@ My first try to make a Neovim plugin in Lua.<br />
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/flo-slv//#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/flo-slv//#gh-dark-mode-only)
-<br><br>
+<br /><br />
 
 ## Editor
 <img align="left" alt="NEOVIM" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" style="padding-right:10px;" />
 <img align="left" alt="VIM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 
-<br><br>
+<br /><br />
 
 ## Languages I am confident with
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -146,14 +146,14 @@ My first try to make a Neovim plugin in Lua.<br />
 <img align="left" alt="Mongo DB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Prisma" width="30px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/prisma-avis-prix-alternatives-logiciel.webp" style="padding-right:10px;" />
 
-<br><br>
+<br /><br />
 
 ## Languages I am learning
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;padding-top:10px;" />
 <img align="left" alt="Lua" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;padding-top:10px;" />
 <img align="left" alt="Rust" width="30px" src="https://prev.rust-lang.org/logos/rust-logo-512x512.png" style="padding-right:10px;" />
 
-<br><br>
+<br /><br />
 
 ## Languages I used in the past
 <img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
