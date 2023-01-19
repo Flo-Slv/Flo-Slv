@@ -53,7 +53,7 @@ Written in HTML/CSS.
 ► **Linktree clone**
 
 A Linktree clone.<br />
-Written in React.js with Next.js 13/Tailwind CSS/Material UI.<br />
+Written in React.js with Next.js 13, Tailwind CSS and Material UI.<br />
 Mobile first.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">repo</a>
@@ -61,6 +61,15 @@ Mobile first.
 <img align="left" alt="Browser" width="20px" src="https://www.svgrepo.com/show/475640/chrome-color.svg" /><a href="https://linktree-clone-delta.vercel.app/" target="_blank">linktree-clone-delta.vercel.app</a>
 
 <img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><a href="https://www.youtube.com/watch?v=l5glLPA_nEo" target="_blank">full tutorial</a> - 🇫🇷 fr
+
+<br /><br />
+
+► **Authentication in Next.js 13 with NextAuth.js**
+
+A small project to show how to handle authentication in Next.js 13 with credentials (email + password).<br />
+Written in React.js with Next.js 13, NextAuth.js, Prisma, Mongo DB, Tailwind CSS, Material UI and React Hook Form.
+
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/next-auth-13" target="_blank">repo</a>
 
 <br />
 
