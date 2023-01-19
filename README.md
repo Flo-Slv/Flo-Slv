@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js and Next.js (13).
+I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js and Next.js (13). To handle DBs, I am using Mongo DB through Prisma ORM.
 
 I am currently learning TypeScript on my free time thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
@@ -120,6 +120,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 ## Languages I am confident with
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-bottom:10px;" />
+<img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px; padding-bottom:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;padding-bottom:10px;" />
 <img align="left" alt="React JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next.js" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" style="padding-right:10px;" />
