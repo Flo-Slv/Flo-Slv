@@ -124,7 +124,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 <img align="left" alt="React JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Next.js" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Mongo DB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Prisma" width="30px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" style="padding-right:10px;" />
+<img align="left" alt="Prisma" width="30px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/prisma-avis-prix-alternatives-logiciel.webp" style="padding-right:10px;" />
 
 <br><br>
 
