@@ -40,11 +40,11 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 ► Linktree clone - A Linktree clone with Next.js 13, Tailwind CSS and Material UI. Mobile first.
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">Linktree clone</a>
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">repo</a>
 
 <img align="left" alt="Browser" width="20px" src="https://www.svgrepo.com/show/475640/chrome-color.svg" /><a href="https://linktree-clone-delta.vercel.app/" target="_blank">linktree-clone-delta.vercel.app</a>
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/watch?v=l5glLPA_nEo" target="_blank">full tutorial</a></i> - 🇫🇷 fr
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><a href="https://www.youtube.com/watch?v=l5glLPA_nEo" target="_blank">full tutorial</a> - 🇫🇷 fr
 
 <br />
 
