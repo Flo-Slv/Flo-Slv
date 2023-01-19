@@ -21,7 +21,7 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 ► **Link-in-bio page**
 
 A webpage for my social network profiles.<br />
-Mobile first.
+Mobile first.<br />
 Written in HTML/CSS and a bit of JavaScript.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">repo</a>
