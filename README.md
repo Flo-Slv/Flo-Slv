@@ -33,7 +33,7 @@ Mobile first.
 ► **My website**
 
 My personnal website.<br />
-Written in HTML/CSS/JavaScript and React.js.
+Written in HTML/CSS/JavaScript/React.js.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/website" target="_blank">repo</a>
 
