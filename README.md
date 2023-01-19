@@ -18,7 +18,10 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 ### Personnal projects
 
-► **Link-in-bio page** - A webpage for my social network profiles. Mobile first, written in HTML/CSS and a bit of JavaScript.
+► **Link-in-bio page**
+
+A webpage for my social network profiles.<br />
+Mobile first, written in HTML/CSS and a bit of JavaScript.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">repo</a>
 
@@ -26,7 +29,10 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 <br /><br />
 
-► **My website** - My personnal website. Written in HTML/CSS/JavaScript and ReactJS.
+► **My website**
+
+My personnal website.<br />
+Written in HTML/CSS/JavaScript and ReactJS.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/website" target="_blank">repo</a>
 
@@ -34,13 +40,20 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 <br /><br />
 
-► **Browser homepage** - A custom homepage when I open my browser. Written in HTML and CSS.
+► **Browser homepage**
+
+A custom homepage when I open my browser.<br />
+Written in HTML and CSS.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">repo</a>
 
 <br /><br />
 
-► **Linktree clone** - A Linktree clone with Next.js 13, Tailwind CSS and Material UI. Mobile first.
+► **Linktree clone**
+
+A Linktree clone.<br />
+Written in React.js with Next.js 13, Tailwind CSS and Material UI.<br />
+Mobile first.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">repo</a>
 
