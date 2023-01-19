@@ -54,7 +54,7 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 My full development environment 🚀
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">repo</a></i> - 🇺🇸 en
 
 <img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim playlist tutorials</a></i> - 🇫🇷 fr<br />
 
@@ -64,9 +64,9 @@ My full development environment 🚀
 
 Every day on live on Twitch from 1st to 25th December 2022.
 
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">repo</a></i> - 🇺🇸 en<br />
 <img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i> - 🇫🇷 fr<br />
-<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> - 🇫🇷 fr<br />
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i> - 🇺🇸 en
+<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> - 🇫🇷 fr
 
 ---
 
@@ -89,7 +89,9 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ### Neovim plugins
 
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i>[Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim)</i> - 🚧 WIP 🚧 My first try to make a Neovim plugin in Lua. - 🇺🇸 en
+<i>Tokyonight-fade.nvim</i> - 🚧 WIP 🚧 My first try to make a Neovim plugin in Lua.
+
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">repo</a> - 🇺🇸 en<br />
 
 ---
 <br />
