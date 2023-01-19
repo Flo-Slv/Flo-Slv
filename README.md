@@ -21,7 +21,7 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 ► **Link-in-bio page**
 
 A webpage for my social network profiles.<br />
-Written in HTML/CSS and a bit of JavaScript.<br />
+Written in HTML/CSS and a bit of JS.<br />
 Mobile first.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">repo</a>
@@ -33,7 +33,7 @@ Mobile first.
 ► **My website**
 
 My personnal website.<br />
-Written in HTML/CSS/JavaScript/React.js.
+Written in HTML/CSS/JS/React.js.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/website" target="_blank">repo</a>
 
