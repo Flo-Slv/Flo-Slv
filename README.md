@@ -106,7 +106,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i> - 🇺🇸 en
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JS</a></i> - 🇺🇸 en
 
 ---
 
