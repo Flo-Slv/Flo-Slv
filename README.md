@@ -16,20 +16,37 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 ### Personnal projects
 
-► <a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">Link-in-bio page</a> - A webpage for my social network profiles. Mobile first, written in HTML/CSS and a bit of JavaScript.
+► Link-in-bio page- A webpage for my social network profiles. Mobile first, written in HTML/CSS and a bit of JavaScript.
 
-🌐 <a href="https://links.flo-slv.dev" target="_blank">links.flo-slv.dev</a>
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">repo</a>
+
+<img align="left" alt="Browser" width="20px" src="https://www.svgrepo.com/show/475640/chrome-color.svg" /><a href="https://links.flo-slv.dev" target="_blank">links.flo-slv.dev</a>
+
 <br /><br />
 
-► <a href="https://github.com/Flo-Slv/website" target="_blank">My website</a> - My personnal website. Written in HTML/CSS/JavaScript and ReactJS.
+► My website - My personnal website. Written in HTML/CSS/JavaScript and ReactJS.
 
-🌐 <a href="https://flo-slv.dev" target="_blank">flo-slv.dev</a>
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/website" target="_blank">repo</a>
+
+<img align="left" alt="Browser" width="20px" src="https://www.svgrepo.com/show/475640/chrome-color.svg" /><a href="https://flo-slv.dev" target="_blank">flo-slv.dev</a>
+
 <br /><br />
 
-► <a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">Browser homepage</a> - A custom homepage when I open my browser. Written in HTML and CSS.
+► Browser homepage - A custom homepage when I open my browser. Written in HTML and CSS.
+
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">repo</a>
+
 <br /><br />
 
-► <a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">Linktree clone</a> - A Linktree clone with Next.js 13, Tailwind CSS and Material UI. Mobile first.
+► Linktree clone - A Linktree clone with Next.js 13, Tailwind CSS and Material UI. Mobile first.
+
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">Linktree clone</a>
+
+<img align="left" alt="Browser" width="20px" src="https://www.svgrepo.com/show/475640/chrome-color.svg" /><a href="https://linktree-clone-delta.vercel.app/" target="_blank">linktree-clone-delta.vercel.app</a>
+
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/watch?v=l5glLPA_nEo" target="_blank">full tutorial</a></i> - 🇫🇷 fr
+
+<br />
 
 ---
 
@@ -37,8 +54,9 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 
 My full development environment 🚀
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorials on YouTube</a></i> - 🇫🇷 fr<br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">GitHub repo</a></i> - 🇺🇸 en
+
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim playlist tutorials</a></i> - 🇫🇷 fr<br />
 
 ---
 
@@ -48,7 +66,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 <img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i> - 🇫🇷 fr<br />
 <img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> - 🇫🇷 fr<br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">GitHub repo</a></i> - 🇺🇸 en
 
 ---
 
@@ -61,11 +79,11 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ### My learning GitHub repositories
 
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i> - 🇺🇸 en<br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i> - 🇺🇸 en<br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i> - 🇺🇸 en<br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i> - 🇺🇸 en<br />
-<img align="left" alt="GitHub" width="20px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i> - 🇺🇸 en<br />
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JavaScript</a></i> - 🇺🇸 en
 
 ---
 
