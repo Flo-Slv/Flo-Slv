@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js and Next.js (13). To handle DBs, I am using Mongo DB through Prisma ORM.
+I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js and Next.js (13).
+
+To handle DBs, I am using Mongo DB through Prisma ORM.
 
 I am currently learning TypeScript on my free time thanks to <a href="https://www.executeprogram.com" target="_blank">Execute Program</a>.
 
