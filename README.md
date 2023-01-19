@@ -112,7 +112,9 @@ Every day on live on Twitch from 1st to 25th December 2022.
 
 ### Neovim plugins
 
-► **Tokyonight-fade.nvim** - My first try to make a Neovim plugin in Lua - still WIP 🚧 
+► **Tokyonight-fade.nvim**
+
+My first try to make a Neovim plugin in Lua - still WIP 🚧 
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">repo</a> - 🇺🇸 en<br />
 
