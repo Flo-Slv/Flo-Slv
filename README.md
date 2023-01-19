@@ -80,33 +80,33 @@ My full development environment 🚀
 
 Every day on live on Twitch from 1st to 25th December 2022.
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">repo</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">repo</a> - 🇺🇸 en
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a></i> - 🇫🇷 fr
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS4vCBMC2bQJbvlJmCdqrlZe" target="_blank">YouTube</a> - 🇫🇷 fr
 
-<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> - 🇫🇷 fr
+<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a> - 🇫🇷 fr
 
 ---
 
 ### My journey to learn Rust from scratch
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><i><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a></i> - 🇫🇷 fr
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5gDeui5P_wPaOOQNYS0_p-" target="_blank">YouTube</a> - 🇫🇷 fr
 
-<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><i><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a></i> - 🇫🇷 fr
+<img align="left" alt="Twitch" width="20px" src="https://www.svgrepo.com/show/448251/twitch.svg" /><a href="https://www.twitch.tv/lepr3z" target="_blank">Twitch</a> - 🇫🇷 fr
 
 ---
 
 ### My learning GitHub repositories
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/CS50" target="_blank">CS50</a> - 🇺🇸 en
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/freeCodeCamp" target="_blank">freeCodeCamp</a> - 🇺🇸 en
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/30DaysOfNode" target="_blank">30 days of node</a> - 🇺🇸 en
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/ReactJS-bootcamp" target="_blank">ReactJS bootcamp</a> - 🇺🇸 en
 
-<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><i><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JS</a></i> - 🇺🇸 en
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/adventOfCode2022" target="_blank">Advent of Code 2022 - JS</a> - 🇺🇸 en
 
 ---
 
