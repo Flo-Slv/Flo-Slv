@@ -44,7 +44,7 @@ Written in HTML/CSS/JS/React.js.
 ► **Browser homepage**
 
 A custom homepage when I open my browser.<br />
-Written in HTML and CSS.
+Written in HTML/CSS.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/browser-homepage" target="_blank">repo</a>
 
@@ -53,7 +53,7 @@ Written in HTML and CSS.
 ► **Linktree clone**
 
 A Linktree clone.<br />
-Written in React.js with Next.js 13, Tailwind CSS and Material UI.<br />
+Written in React.js with Next.js 13/Tailwind CSS/Material UI.<br />
 Mobile first.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">repo</a>
