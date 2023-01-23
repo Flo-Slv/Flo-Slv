@@ -71,6 +71,8 @@ Written in React.js with Next.js 13, NextAuth.js, Prisma, Mongo DB, Tailwind CSS
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/next-auth-13" target="_blank">repo</a>
 
+<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS7dJJQ1Qmo1XhiBuVAaERZc" target="_blank">full tutorial</a> - 🇫🇷 fr
+
 <br />
 
 ---
