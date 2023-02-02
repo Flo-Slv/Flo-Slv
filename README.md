@@ -23,6 +23,7 @@ I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
 A webpage for my social network profiles.<br />
 Written in HTML/CSS and a bit of JS.<br />
 Mobile first.
+Deploy on <a href="https://ovhcloud.com" target="_blank">ovhcloud.com</a>
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/link-in-bio" target="_blank">repo</a>
 
@@ -33,7 +34,8 @@ Mobile first.
 ► **My website**
 
 My personnal website.<br />
-Written in HTML/CSS, JS, React.js and Vite.js
+Written in HTML/CSS, JS, React.js and Vite.js<br />
+Deploy on <a href="https://ovhcloud.com" target="_blank">ovhcloud.com</a>
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/website" target="_blank">repo</a>
 
@@ -54,7 +56,8 @@ Written in HTML/CSS.
 
 A Linktree clone.<br />
 Written in React.js with Next.js 13, Tailwind CSS and Material UI.<br />
-Mobile first.
+Mobile first.<br />
+Deploy on <a href="https://vercel.com" target="_blank">vercel.com</a>
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/linktree-clone" target="_blank">repo</a>
 
@@ -66,7 +69,7 @@ Mobile first.
 
 ► **Authentication in Next.js 13 with NextAuth.js**
 
-A small project to show how to handle authentication in Next.js 13 with credentials (email + password).<br />
+A small side project to show how to handle authentication in Next.js 13 with credentials (email + password).<br />
 Written in React.js with Next.js 13, NextAuth.js, Prisma, Mongo DB, Tailwind CSS, Material UI and React Hook Form.
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/next-auth-13" target="_blank">repo</a>
