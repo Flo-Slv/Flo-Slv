@@ -67,6 +67,17 @@ Deploy on <a href="https://vercel.com" target="_blank">vercel.com</a>
 
 <br /><br />
 
+► **Shopping page**
+
+A small shopping-page.<br />
+Backend: Node.js (Express), Apollo server and GraphQL.<br />
+Frontend (SSR): Vite.js, Apollo client, React router dom, React.js, Zustand, Tailwind CSS and Material UI.<br />
+I did this project as a technical test for a company.<br />
+
+<img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/jacando-shopping" target="_blank">repo</a>
+
+<br /><br />
+
 ► **Authentication in Next.js 13 with NextAuth.js**
 
 A small side project to show how to handle authentication in Next.js 13 with credentials (email + password).<br />
