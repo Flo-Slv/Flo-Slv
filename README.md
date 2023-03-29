@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Flo and I'm from France.
 
-I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js and Next.js (13).
+I'm a web developer in CSS + Tailwind CSS, JavaScript, React.js, Next.js (13) and GraphQL.
 
 To handle DBs, I am using Mongo DB through Prisma ORM.
 
@@ -170,6 +170,7 @@ My first try to make a Neovim plugin in Lua.<br />
 <img align="left" alt="Next.js" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Mongo DB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Prisma" width="30px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/prisma-avis-prix-alternatives-logiciel.webp" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 
 <br /><br />
 
@@ -181,7 +182,6 @@ My first try to make a Neovim plugin in Lua.<br />
 <br /><br />
 
 ## Technos I used in the past
-<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <br /><br />
