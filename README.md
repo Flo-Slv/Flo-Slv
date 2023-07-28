@@ -11,7 +11,7 @@ I also love Lua which is a great language to config and create Neovim plugins ! 
 
 So, yes, I'm a Vim/Neovim user with an <i><a href="https://m.media-amazon.com/images/I/818T--WBwvL._AC_SL1500_.jpg" target="_blank">Advantage2 Kinesis</a></i> keyboard.
 
-I'm using a Linux distribution, Ubuntu 22.04.1, with i3 as window manager.
+I'm using a Linux distribution, Ubuntu 22.04.2, with i3 as window manager.
 <br /><br />
 
 ---
