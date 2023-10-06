@@ -54,7 +54,6 @@ My full development environment 🚀
 <img align="left" alt="Confluence" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Insomnia" width="60px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" style="padding-right:10px;" />
 
 <br /><br /><br />
 
