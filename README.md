@@ -124,7 +124,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/flo-slv//#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/flo-slv//#gh-dark-mode-only)
-<br /><br />
+<br /><br /><br />
 
 ## Editor
 <img align="left" alt="NEOVIM" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" style="padding-right:10px;" />
@@ -144,7 +144,7 @@ Every day on live on Twitch from 1st to 25th December 2022.
 <img align="left" alt="Prisma" width="60px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/prisma-avis-prix-alternatives-logiciel.webp" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;padding-top:10px;" />
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 ## Languages I am learning
 <img align="left" alt="Rust" width="60px" src="https://prev.rust-lang.org/logos/rust-logo-512x512.png" style="padding-right:10px;" />
