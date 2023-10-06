@@ -25,12 +25,14 @@ My full development environment 🚀
 <br />
 
 ## Connect with me
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/FloSlv1#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/FloSlv1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/flo-slv//#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/flo-slv//#gh-dark-mode-only)
-<br /><br />
+<a href="https://twitter.com/FloSlv1">
+  <img align="left" alt="Twitter" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />
+</a>
+<a href="https://www.linkedin.com/in/flo-slv">
+  <img align="left" alt="LinkedIn" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+</a>
+
+<br /><br /><br />
 
 ## Set-up
 <img align="left" alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
@@ -39,7 +41,7 @@ My full development environment 🚀
 <br /><br /><br />
 
 ## Editors
-<img align="left" alt="NEOVIM" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" style="padding-right:10px;" />
+<img align="left" alt="NEOVIM" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" style="padding-right:10px;" />
 <img align="left" alt="VIM" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 
 <br /><br /><br />
