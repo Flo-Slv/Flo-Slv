@@ -18,7 +18,7 @@ My full development environment 🚀
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">repo</a> - 🇺🇸 en
 
-<img align="left" alt="YouTube" width="20px" src="https://www.svgrepo.com/show/13671/youtube.svg" /><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorial playlist</a> - 🇫🇷 fr<br />
+<img align="left" alt="YouTube" width="20px" src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" /><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorial playlist</a> - 🇫🇷 fr<br />
 
 ---
 
@@ -30,6 +30,9 @@ My full development environment 🚀
 </a>
 <a href="https://www.linkedin.com/in/flo-slv">
   <img align="left" alt="LinkedIn" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+</a>
+<a href="https://www.youtube.com/@floslv">
+  <img align="left" alt="YouTube" width="70px" src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" style="padding-right:10px;" />
 </a>
 
 <br /><br /><br />
@@ -50,6 +53,7 @@ My full development environment 🚀
 <img align="left" alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Confluence" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Insomnia" width="60px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" style="padding-right:10px;" />
 
 <br /><br /><br />
