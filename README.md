@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Flo and I'm from France 🇫🇷
+I'm from France 🇫🇷
 
 I'm a web developer using JS stack (TS, React, Next.js etc...).
 
