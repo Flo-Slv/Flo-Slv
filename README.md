@@ -25,15 +25,7 @@ My full development environment 🚀
 <br />
 
 ## Connect with me
-<a href="https://twitter.com/FloSlv1">
-  <img align="left" alt="Twitter" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.linkedin.com/in/flo-slv">
-  <img align="left" alt="LinkedIn" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
-</a>
-<a href="https://www.youtube.com/@floslv">
-  <img align="left" alt="YouTube" width="70px" src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" style="padding-right:10px;" />
-</a>
+
 
 <br /><br /><br />
 
