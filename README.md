@@ -18,8 +18,6 @@ My full development environment 🚀
 
 <img align="left" alt="GitHub" width="22px" src="https://www.svgrepo.com/show/439171/github.svg" /><a href="https://github.com/Flo-Slv/Dotfiles" target="_blank">repo</a> - 🇺🇸 en
 
-<img align="left" alt="YouTube" width="20px" src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" /><a href="https://www.youtube.com/playlist?list=PLQ9SIeHxkTS5xpD3vJE5l5rR601ZScjJr" target="_blank">My Neovim tutorial playlist</a> - 🇫🇷 fr<br />
-
 ---
 
 <br />
